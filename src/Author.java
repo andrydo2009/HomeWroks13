@@ -43,3 +43,5 @@ public class Author
         return "Автор - "+lastNameAuthor+" "+firstNameAuthor+" "+middleNameAuthor;
    }
 }
+
+//the End&
